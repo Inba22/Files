@@ -1,0 +1,9 @@
+GitHub is a code hosting platform.
+
+It uses Git for version control.
+
+Projects are stored in repositories.
+
+Supports team collaboration.
+
+Allows pull requests for code review.
