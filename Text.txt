@@ -7,3 +7,13 @@ Projects are stored in repositories.
 Supports team collaboration.
 
 Allows pull requests for code review.
+
+Provides issue tracking for bugs and tasks.
+
+Supports branching for feature development.
+
+Offers GitHub Actions for automation.
+
+Hosts open-source projects.
+
+Supports Markdown for documentation.
